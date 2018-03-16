@@ -1,0 +1,16 @@
+{
+  "CFG": {
+    "APP": {
+      "NAME": "monitor"
+    },
+    "LOG": {
+      "LEVEL": "info",
+      "FILE": "./logs/app.log"
+    },
+    "CREDENTIALS": {
+      "user": "",
+      "password": "",
+      "connectString": ""
+    }
+  }
+}

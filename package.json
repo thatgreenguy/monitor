@@ -1,0 +1,39 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "Monitor E1 Job Queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatgreenguy/monitor.git"
+  },
+  "keywords": [
+    "Monitor",
+    "E1",
+    "Job",
+    "Queue",
+    "polling"
+  ],
+  "author": "thatgreenguy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatgreenguy/monitor/issues"
+  },
+  "homepage": "https://github.com/thatgreenguy/monitor#readme",
+  "dependencies": {
+    "config": "1.30.0",
+    "oracledb": "2.1.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "1.6.1",
+    "eslint": "^4.18.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^6.0.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
